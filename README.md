@@ -2,8 +2,8 @@
 ![Alt text](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png)
 
 ### Meu nome é Fortuna 
-- Cursando Ciência da Computacao na Universidade Federal de Alfenas - UNIFAL.
-- Interresado na área de front-end.
+- Cursando Ciência da Computacao na Universidade Federal de Alfenas - UNIFAL
+- Interresado na área de front-end
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fortunarafael9@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fortuna_rafael/)
