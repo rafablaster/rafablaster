@@ -4,13 +4,13 @@
 
 ## Contatos
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafael.fortuna@sou.unifal-mg.edu.br)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fortunarafael9@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fortuna_rafael/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fortuna09&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafablaster&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fortuna09&layout=compact&theme=dark&show)](https://github.com/Fortuna09/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafablaster&layout=compact&theme=dark&show)](https://github.com/rafablaster/github-readme-stats)
 
 
 ## Atualmente aprendendo
